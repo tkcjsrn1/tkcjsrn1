@@ -2,9 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Welcome%20to%20jkim's%20Github!&animation=&fontColor=000000&fontSize=50" />
     </div>
     <div>
-    [![BOJ](https://bojstat.vulcan.site/tkcjsrn)](https://www.acmicpc.net/user/tkcjsrn)
-    </div>
-    [![BOJ](https://bojstat.vulcan.site/v2/ko/tkcjsrn)](https://www.acmicpc.net/user/tkcjsrn)
     <a href="https://www.acmicpc.net/user/tkcjsrn">
   <img src="https://bojstat.vulcan.site/v2/ko/tkcjsrn" alt="BOJ 기여도 뱃지" />
 </a>
