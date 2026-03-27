@@ -15,7 +15,7 @@
 
 * <img src="https://img.shields.io/badge/-000000?style=flat&logo=42&logoColor=white" height="20" vertical-align="middle"> 42 Tokyo Cadet (On Leave)
 * 🦁 **Vice President** LikeLion
-* 💻 **Codeit College camp** (10th Generation)
+* 💻 **Codeit College coding camp** (10th Generation)
 
 ---
 
