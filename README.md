@@ -31,7 +31,11 @@
 ## 🧑‍💻 Contact me
 Feel free to reach out to me for collaboration or any inquiries!
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tkcjsrn774@gmail.com)
+<a href="mailto:tkcjsrn774@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
+<br>
+📫 **Contact:** [tkcjsrn774@gmail.com](mailto:tkcjsrn774@gmail.com)
 
 ---
 
