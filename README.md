@@ -1,7 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Welcome%20to%20jkim's%20Github!&animation=&fontColor=000000&fontSize=50" />
     </div>
-    [![BOJ](https://bojstat.vulcan.site/v2/ko/sk14cj)](https://www.acmicpc.net/user/tkcjsrn)
+    [![BOJ](https://bojstat.vulcan.site/sk14cj)](https://www.acmicpc.net/user/tkcjsrn)
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
