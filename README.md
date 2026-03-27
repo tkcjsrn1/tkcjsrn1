@@ -14,7 +14,7 @@
 "Hello! I'm **Jung-hyuk Kim**, an aspiring developer dedicated to continuous growth and mastering the art of code."
 
 * <img src="https://img.shields.io/badge/-000000?style=flat&logo=42&logoColor=white" height="20" vertical-align="middle"> 42 Tokyo Cadet (On Leave)
-* 🦁 **Vice President** @ LikeLion
+* * <img src="https://img.shields.io/badge/LikeLion-FF9F00?style=flat&logo=LikeLion&logoColor=white" height="20" style="vertical-align: middle;"> **Vice President** LikeLion
 * 💻 **Codeit College camp** (10th Generation)
 
 ---
@@ -31,7 +31,9 @@
 ## 🧑‍💻 Contact me
 Feel free to reach out to me for collaboration or any inquiries!
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tkcjsrn774@gmail.com)
+<a href="mailto:tkcjsrn774@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+</a>
 
 ---
 
