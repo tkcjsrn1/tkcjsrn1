@@ -39,7 +39,13 @@
 ---
 
 ## 📊 Stats
+## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tkcjsrn1&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkcjsrn1&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tkcjsrn1&show_icons=true&theme=transparent" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkcjsrn1&layout=compact&theme=transparent" height="150" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkcjsrn1&theme=radical" alt="tkcjsrn1's streak" />
 </p>
