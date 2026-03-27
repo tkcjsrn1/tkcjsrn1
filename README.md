@@ -13,7 +13,10 @@
 ## 🧑‍💻 About Me
 안녕하세요! ☀️ **코린이 김정혁**입니다. ☀️
 
-* 🇯🇵 **42 Tokyo** Cadet pause
+<p align="left">
+  <img src="[file:///C:/Users/%EC%A0%95%ED%98%81/Downloads/42.svg]" width="20" height="20" style="vertical-align: middle;">
+  42 Tokyo Cade
+</p>
 * 🦁 **멋쟁이사자처럼** Vice President ing ~
 * 👾 **코드잇 대학생 코딩 캠프** 10기 수료
 
@@ -33,11 +36,9 @@
 ## 🧑‍💻 Contact me
 저에게 궁금한 점이 있다면 언제든 연락주세요!
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sk14cj@inu.ac.kr)](tkcjsrn774@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkcjsrn774@gmail.com)](tkcjsrn774@gmail.com)
 
 ---
-
-## 📊 Stats
 ## 📊 GitHub Stats
 
 <p align="left">
