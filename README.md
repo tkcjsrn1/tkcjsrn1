@@ -5,6 +5,9 @@
     [![BOJ](https://bojstat.vulcan.site/tkcjsrn)](https://www.acmicpc.net/user/tkcjsrn)
     </div>
     [![BOJ](https://bojstat.vulcan.site/v2/ko/tkcjsrn)](https://www.acmicpc.net/user/tkcjsrn)
+    <a href="https://www.acmicpc.net/user/tkcjsrn">
+  <img src="https://bojstat.vulcan.site/v2/ko/tkcjsrn" alt="BOJ 기여도 뱃지" />
+</a>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
