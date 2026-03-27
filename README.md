@@ -11,20 +11,15 @@
 <br>
 
 ## 🧑‍💻 About Me
-안녕하세요! ☀️ **코린이 김정혁**입니다. ☀️
+"Hello! I'm **Jung-hyuk Kim**, an aspiring developer dedicated to continuous growth and mastering the art of code."
 
-<p align="left">
-  <img src="[file:///C:/Users/%EC%A0%95%ED%98%81/Downloads/42.svg]" width="20" height="20" style="vertical-align: middle;">
-  42 Tokyo Cade
-</p>
-* 🦁 **멋쟁이사자처럼** Vice President ing ~
-* 👾 **코드잇 대학생 코딩 캠프** 10기 수료
+* <img src="https://img.shields.io/badge/42_Tokyo-000000?style=flat&logo=42&logoColor=white" height="20" vertical-align="middle"> **Cadet** (On Leave)
+* 🦁 **Vice President** @ LikeLion
+* 💻 **Codeit College camp** (10th Generation)
 
 ---
 
 ## 🛠️ Tech Stacks
-보유한 기술 스택들을 시각적으로 정리했습니다.
-
 ### 💻 Languages & OS
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 
@@ -34,13 +29,13 @@
 ---
 
 ## 🧑‍💻 Contact me
-저에게 궁금한 점이 있다면 언제든 연락주세요!
+Feel free to reach out to me for collaboration or any inquiries!
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkcjsrn774@gmail.com)](tkcjsrn774@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tkcjsrn774@gmail.com)
 
 ---
-## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkcjsrn1&theme=radical" alt="tkcjsrn1's streak" />
 </p>
