@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 "Hello! I'm **Jung-hyuk Kim**, an aspiring developer dedicated to continuous growth and mastering the art of code."
 
-* <img src="https://img.shields.io/badge/42_Tokyo-000000?style=flat&logo=42&logoColor=white" height="20" vertical-align="middle"> **Cadet** (On Leave)
+* <img src="https://img.shields.io/badge/-000000?style=flat&logo=42&logoColor=white" height="20" vertical-align="middle"> 42 Tokyo Cadet (On Leave)
 * 🦁 **Vice President** @ LikeLion
 * 💻 **Codeit College camp** (10th Generation)
 
