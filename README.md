@@ -13,8 +13,8 @@
 ## 🧑‍💻 About Me
 안녕하세요! ☀️ **코린이 김정혁**입니다. ☀️
 
-* 🇯🇵 **42 Tokyo** pause
-* 🦁 **멋쟁이사자처럼** 부대표 ing ~
+* 🇯🇵 **42 Tokyo** Cadet pause
+* 🦁 **멋쟁이사자처럼** Vice President ing ~
 * 👾 **코드잇 대학생 코딩 캠프** 10기 수료
 
 ---
@@ -33,18 +33,12 @@
 ## 🧑‍💻 Contact me
 저에게 궁금한 점이 있다면 언제든 연락주세요!
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sk14cj@inu.ac.kr)](mailto:sk14cj@inu.ac.kr)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sk14cj@inu.ac.kr)](tkcjsrn774@gmail.com)
 
 ---
 
 ## 📊 Stats
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tkcjsrn1&show_icons=true&theme=transparent" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkcjsrn1&layout=compact&theme=transparent" height="150" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkcjsrn1&theme=radical" alt="tkcjsrn1's streak" />
