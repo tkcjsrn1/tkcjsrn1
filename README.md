@@ -1,32 +1,46 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Welcome%20to%20jkim's%20Github!&animation=&fontColor=000000&fontSize=50" />
-    </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Welcome%20to%20jkim's%20Github!&animation=fadeIn&fontColor=000000&fontSize=50" />
+</div>
+
 <p align="center">
   <a href="https://solved.ac/tkcjsrn">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=tkcjsrn" alt="Solved.ac Profile" />
   </a>
 </p>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
-    </div>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요</li> ☀️ 코린이 김정혁입니다.☀️ </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-          <br/></div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;">  </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
-    
 
+<br>
 
+## 🧑‍💻 About Me
+안녕하세요! ☀️ **코린이 김정혁**입니다. ☀️
+현재는 평택대학교에서 통합소프트웨어를 전공하며 개발의 기초를 탄탄히 다지고 있습니다.
 
+* 🇯🇵 **42 Tokyo**에서 C언어 기반의 다양한 프로젝트를 경험했습니다.
+* 🦁 **멋쟁이사자처럼** 평택대학교 부회장으로 활동하며 커뮤니티 성장에 기여하고 있습니다.
+* 🏓 취미로는 **탁구**를 즐기며 에너지를 얻습니다!
+
+---
+
+## 🛠️ Tech Stacks
+보유한 기술 스택들을 시각적으로 정리했습니다.
+
+### 💻 Languages & OS
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+
+### 💬 Communication
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+
+---
+
+## 🧑‍💻 Contact me
+저에게 궁금한 점이 있다면 언제든 연락주세요!
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sk14cj@inu.ac.kr)](mailto:sk14cj@inu.ac.kr)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/)
+
+---
+
+## 📊 Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tkcjsrn1&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkcjsrn1&layout=compact&theme=radical" height="150" />
+</p>
