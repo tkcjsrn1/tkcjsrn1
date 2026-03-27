@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Welcome%20to%20jkim's%20Github!&animation=&fontColor=000000&fontSize=50" />
     </div>
     <div align= "center">
-    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_bagdge?boj=tkcjsrn1)](http://solved.ac/tkcjsrn1)
+    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkcjsrn)](https://solved.ac/tkcjsrn)
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
