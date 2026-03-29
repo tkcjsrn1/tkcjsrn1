@@ -14,7 +14,7 @@
 "Hello! I'm **Jung-hyeok Kim**, an aspiring developer dedicated to continuous growth and mastering the art of code."
 
 * <img src="https://img.shields.io/badge/-000000?style=flat&logo=42&logoColor=white" height="20" vertical-align="middle"> 42 Tokyo Cadet (On Leave)
-* 🦁 **Vice President** univ.LikeLion
+* 🦁 **Vice President** univ.LikeLion (student)
 * 💻 **Codeit College coding camp** (10th Generation)
 
 ---
