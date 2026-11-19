@@ -45,3 +45,10 @@ Feel free to reach out to me for collaboration or any inquiries!
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkcjsrn1&theme=radical" alt="tkcjsrn1's streak" />
 </p>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img alt="tkcjsrn1's 3D contribution graph" src="./profile-3d-contrib/profile-green-animate.svg">
+  </picture>
+</p>
