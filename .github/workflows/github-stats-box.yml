@@ -1,0 +1,21 @@
+name: Update GitHub Stats Box Gist
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Update github-stats-box gist
+        run: npx github-stats-box@1
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: 1cc7fbee10a5abd5c6db28fc899161b6
+          ALL_COMMITS: true
+          K_FORMAT: false
